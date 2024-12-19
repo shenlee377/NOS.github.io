@@ -1,0 +1,45 @@
+@charset "utf-8";
+.header {
+    width: 1024px;
+    height: 100px;
+    background-image: url(images/back_img_S/07_gif.gif);
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 42px;
+    font-family: "華康童童體(P)", "華康布丁體(P)";
+}
+.content {
+    width: 1024px;
+    background-image: url(images/back_img_S/54_jpg.gif);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.footer {
+    width: 1024px;
+    height: 40px;
+    clear: left;
+    text-align: center;
+    background-image: url(images/back_img_S/07_gif.gif);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contentR {
+	margin-left: 200px;
+	border: thin dotted rgba(245,18,82,1.00);
+	width: 824px;
+	
+}
+.font1 {
+    color: #FF0004;
+    font-size: 20px;
+    font-family: "華康童童體(P)", "華康布丁體(P)";
+}
+
+
+.contentL {
+	float: left;
+	width: 200px;
+	}
